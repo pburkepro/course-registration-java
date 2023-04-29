@@ -1,0 +1,14 @@
+1111#John#Smith#18#Male#1#
+2222#Mary#Jones#19#Female#2#
+3333#Dean#Johnson#18#Male#1#
+4444#Nick#Green#21#Male#3#
+5555#Karen#Hilling#22#Female#4#
+6666#Jane#Gardner#21#Female#3#
+7777#Jim#Gallo#19#Male#2#
+8888#Hanson#Andrew#18#Male#1#
+9999#Chris#Johns#19#Male#2#
+1212#Laura#Manis#20#Female#3#
+2323#Bonnie#Lacey#21#Female#4#
+3434#Stacy#Abrams#18#Female#1#
+4545#Robert#Brown#19#Male#2#
+8989#Patrick#Burke#24#Male#6#

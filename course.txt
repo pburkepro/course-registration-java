@@ -1,0 +1,12 @@
+INFS4042#Database#Baugh
+INFS1020#Intro To Computers#Caputo
+INFS1010#Principles Of Computing#Rota
+INFS1020#Intro Decision Support Systems#Davis
+INFS2120#Visual Basic Programming#Kovacs
+INFS2130#Cobol Programming#Kovacs
+INFS2150#Intro To Web#Davis
+INFS2151#Java Programming#Baugh
+INFS2184#C Programming#Baugh
+INFS3116#Mobile Program With Android#Davis
+INFS3120#Intro To Computer Forensics#Paullet
+INFS3170#Cyberlaw#Paullet
